@@ -1,0 +1,2 @@
+1- Create a new environment
+2- Create working directory (launch jupyter notebook from there)
